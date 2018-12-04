@@ -1,0 +1,9 @@
+topic: ~Greeting()
+language: enu
+
+u:(Hello) Do you want to play a game of rock paper scissors?
+
+u:(No) That's ok tap my head to when you are ready to play! $wait=1
+
+u:(Yes) $play=1
+

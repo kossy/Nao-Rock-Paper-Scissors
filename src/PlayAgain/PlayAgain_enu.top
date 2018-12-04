@@ -1,0 +1,5 @@
+topic: ~PlayAgain()
+language: enu
+
+u:(yes) $play=1
+u:(no) Tap my head to play $wait=1

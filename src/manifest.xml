@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package uuid="nao_rock_paper_scissors-01ad31">
+<package uuid="naorockpaperscissors-b0cac1">
  <names>
-  <name lang="en_US">Nao_Rock_Paper_Scissors</name>
+  <name lang="en_US">NaoRockPaperScissors</name>
  </names>
  <supportedLanguages>
   <language>en_US</language>
